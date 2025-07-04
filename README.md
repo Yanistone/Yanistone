@@ -13,5 +13,5 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="450" alt="dev terminal"/>
+  <img src="https://github.com/ritik307/ritik307/raw/main/images/code.gif" width="400"/>
 </p>
