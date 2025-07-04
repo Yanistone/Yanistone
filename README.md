@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Just_the_stack_No_fluff.-00F7FF?style=for-the-badge&labelColor=0a0a0a&logo=codewars&logoColor=white" />
+  <img src="https://svg-badge.vercel.app/api?text=Just+the+stack.+No+fluff.&type=glow&color=00F7FF" />
 </p>
 
 <p align="center">
