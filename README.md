@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=1200&color=00F7FF&center=true&vCenter=true&width=350&lines=Just+the+stack.+No+fluff.;No+talk.+Just+build.;Silence+is+clean+code." />
+  <img src="https://img.shields.io/badge/Just_the_stack_No_fluff.-00F7FF?style=for-the-badge&labelColor=0a0a0a&logo=codewars&logoColor=white" />
 </p>
 
 <p align="center">
