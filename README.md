@@ -2,8 +2,8 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=34&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=400&lines=Yanistone" />
 </h1>
 
-<p align="center" style="color:#39FF14; font-size:20px;">
-  Just the stack. No fluff.
+<p align="center">
+  <img src="https://img.shields.io/badge/Just_the_stack._No_fluff.-39FF14?style=flat-square&labelColor=000000&color=39FF14" />
 </p>
 
 <p align="center">
