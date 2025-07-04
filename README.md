@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://svg-badge.vercel.app/api?text=Just+the+stack.+No+fluff.&type=glow&color=00F7FF" />
+  <img src="https://media.giphy.com/media/xT5LMEcHRqY4vKJTO4/giphy.gif" width="250" alt="Just the stack. No fluff.">
 </p>
 
 <p align="center">
