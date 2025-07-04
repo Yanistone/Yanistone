@@ -18,3 +18,7 @@
 <p align="center">
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3J4aDVoN2E4dDNrbHo5MTNjYzB3OWE5emdzaDI4N3gwempwOG1uMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zOvBKUUEERdNm/giphy.gif" width="400" alt="Loading...">
 </p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Yanistone&theme=darkhub&no-frame=true&no-bg=true&margin-w=5" />
+</p>
