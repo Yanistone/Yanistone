@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/xT5LMEcHRqY4vKJTO4/giphy.gif" width="250" alt="Just the stack. No fluff.">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Courier+Prime&size=20&pause=1000&color=00F7FF&center=true&vCenter=true&width=400&lines=%3E_+Just+the+stack.+No+fluff." />
 </p>
 
 <p align="center">
