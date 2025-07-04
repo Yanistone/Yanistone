@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=34&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=400&lines=Yanistone" />
 </h1>
 
-<p align="center" style="color:#39FF14; font-family:Share Tech Mono; font-size:20px;">
+<p align="center" style="color:#39FF14; font-size:20px;">
   Just the stack. No fluff.
 </p>
 
