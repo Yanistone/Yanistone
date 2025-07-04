@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=20&duration=600&color=39FF14&center=true&vCenter=true&width=420&lines=%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88;Just+the+stack.+No+fluff." />
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=20&duration=600&pause=50&color=39FF14&center=true&vCenter=true&width=420&lines=%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88;Just+the+stack.+No+fluff." />
 </p>
 
 <p align="center">
