@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Courier+Prime&size=20&pause=1000&color=00FF00&center=true&vCenter=true&width=400&lines=$+Just+the+stack...+No+fluff.;$+System+stable.;$+Access+granted." />
+  <img src="https://i.imgur.com/d5W7qzg.gif" width="400" alt="Just the stack. No fluff." />
 </p>
 
 <p align="center">
