@@ -2,7 +2,9 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=34&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=400&lines=Yanistone" />
 </h1>
 
-<p align="center">Just the stack. No fluff.</p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=1200&color=00F7FF&center=true&vCenter=true&width=350&lines=Just+the+stack.+No+fluff.;No+talk.+Just+build.;Silence+is+clean+code." />
+</p>
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="50" height="50"/>
