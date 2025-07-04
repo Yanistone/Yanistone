@@ -26,3 +26,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Yanistone&label=Profile+views&color=0e75b6&style=flat" />
 </p>
+
+<p align="center">
+  <img src="https://badgen.net/badge/lines%20of%20code/∞/cyan" />
+</p>
