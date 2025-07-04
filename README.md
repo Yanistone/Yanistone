@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Yanis&show_icons=true&theme=tokyonight&hide_title=true&hide_rank=true&hide_border=true" />
-</p>
+<h1 align="center">Yanistone</h1>
 <p align="center">Just the stack. No fluff.</p>
 
 <p align="center">
